@@ -9,7 +9,7 @@ import pickle
 import numpy as np
 
 sys.path.append('../')
-from FeatEngg import ngramEnc,ctdEnc,gaacEnc
+from FeatEngg import ngramEnc,gaacEnc
 from mySVM.model import SVM,SVMRegressor
 from GBClassifier.model import GBC
 from NNClassifier.model import NN
