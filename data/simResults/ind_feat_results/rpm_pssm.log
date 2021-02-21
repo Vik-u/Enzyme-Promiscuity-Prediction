@@ -1,0 +1,37 @@
+-----rpm_pssm model evaluation begins-----
+
+Decision Tree Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.8021978021978022
+Train Precision: 0.8789013732833958
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.5680272108843537
+Validation Precision: 0.45918367346938777
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.6054510058403634
+Test Precision: 0.29010989010989013
+
+SVM Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.945054945054945
+Train Precision: 0.9685714285714285
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.6360544217687075
+Validation Precision: 0.5625
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.6177806619078521
+Test Precision: 0.3088888888888889

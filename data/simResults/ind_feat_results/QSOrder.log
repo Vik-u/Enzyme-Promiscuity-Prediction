@@ -1,0 +1,37 @@
+-----QSOrder model evaluation begins-----
+
+Decision Tree Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.854490337248958
+Train Precision: 0.969735182849937
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.5782312925170068
+Validation Precision: 0.47126436781609193
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.5879299156391953
+Test Precision: 0.26200873362445415
+
+SVM Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.859037514209928
+Train Precision: 0.9576783555018138
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.5748299319727891
+Validation Precision: 0.44642857142857145
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.6398442569759896
+Test Precision: 0.2934131736526946

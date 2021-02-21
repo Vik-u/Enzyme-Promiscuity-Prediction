@@ -1,0 +1,37 @@
+-----dpc_pssm model evaluation begins-----
+
+Decision Tree Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.8181129215611974
+Train Precision: 0.9332443257676902
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.5680272108843537
+Validation Precision: 0.44594594594594594
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.6158338741077223
+Test Precision: 0.29603729603729606
+
+SVM Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.6237211064797271
+Train Precision: 0.6227436823104693
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.5986394557823129
+Validation Precision: 0.5106382978723404
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.6774821544451655
+Test Precision: 0.36394557823129253

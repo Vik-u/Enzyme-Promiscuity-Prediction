@@ -1,0 +1,37 @@
+-----CKSAAGP model evaluation begins-----
+
+Decision Tree Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.9132247063281546
+Train Precision: 0.9352030947775629
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.5544217687074829
+Validation Precision: 0.4491525423728814
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.5197923426346528
+Test Precision: 0.24566929133858267
+
+SVM Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.8234179613489958
+Train Precision: 0.9597780859916782
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.5986394557823129
+Validation Precision: 0.5084745762711864
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.645684620376379
+Test Precision: 0.2768166089965398

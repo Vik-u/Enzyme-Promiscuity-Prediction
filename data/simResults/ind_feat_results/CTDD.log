@@ -1,0 +1,37 @@
+-----CTDD model evaluation begins-----
+
+Decision Tree Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.8840469874952633
+Train Precision: 0.9152371342078708
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.5714285714285714
+Validation Precision: 0.46788990825688076
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.5749513303049968
+Test Precision: 0.29411764705882354
+
+SVM Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.7517999242137173
+Train Precision: 0.9683794466403162
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.5816326530612245
+Validation Precision: 0.42857142857142855
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.6807268007787152
+Test Precision: 0.2549019607843137

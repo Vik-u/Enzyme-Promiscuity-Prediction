@@ -1,0 +1,37 @@
+-----medp model evaluation begins-----
+
+Decision Tree Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.9981053429329292
+Train Precision: 0.9955908289241623
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.5782312925170068
+Validation Precision: 0.48031496062992124
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.5308241401687216
+Test Precision: 0.26676829268292684
+
+SVM Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.5899962106858658
+Train Precision: 0.561038961038961
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.6190476190476191
+Validation Precision: 0.5945945945945946
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.6826735885788449
+Test Precision: 0.3348623853211009

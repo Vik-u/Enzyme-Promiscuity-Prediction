@@ -1,0 +1,37 @@
+-----pssm_composition model evaluation begins-----
+
+Decision Tree Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.9742326638878362
+Train Precision: 0.9880404783808647
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.564625850340136
+Validation Precision: 0.46218487394957986
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.5399091499026606
+Test Precision: 0.271875
+
+SVM Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.7889352027283062
+Train Precision: 0.8310185185185185
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.6122448979591837
+Validation Precision: 0.5373134328358209
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.6294613887086308
+Test Precision: 0.3094059405940594

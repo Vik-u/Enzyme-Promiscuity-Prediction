@@ -1,0 +1,37 @@
+-----s_fpssm model evaluation begins-----
+
+Decision Tree Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.7256536566881394
+Train Precision: 0.7362893815635939
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.5680272108843537
+Validation Precision: 0.45555555555555555
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.5950681375730046
+Test Precision: 0.29006085192697767
+
+SVM Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.9848427434634331
+Train Precision: 0.9900990099009901
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.6360544217687075
+Validation Precision: 0.5612244897959183
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.5937702790395847
+Test Precision: 0.3068391866913124

@@ -1,0 +1,37 @@
+-----SOCNumber model evaluation begins-----
+
+Decision Tree Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.7173171655930277
+Train Precision: 0.8154859967051071
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.5306122448979592
+Validation Precision: 0.3442622950819672
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.6223231667748216
+Test Precision: 0.27146814404432135
+
+SVM Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.6744979158772262
+Train Precision: 0.8947368421052632
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.6156462585034014
+Validation Precision: 0.6071428571428571
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.6885139519792343
+Test Precision: 0.27007299270072993

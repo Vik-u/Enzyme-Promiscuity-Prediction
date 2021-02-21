@@ -1,0 +1,37 @@
+-----aatp model evaluation begins-----
+
+Decision Tree Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.7495263357332322
+Train Precision: 0.7326043737574552
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.5578231292517006
+Validation Precision: 0.44761904761904764
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.5833874107722258
+Test Precision: 0.30434782608695654
+
+SVM Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.7169382341796134
+Train Precision: 0.9012605042016807
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.6122448979591837
+Validation Precision: 0.5454545454545454
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.6781310837118754
+Test Precision: 0.34980988593155893

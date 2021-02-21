@@ -1,0 +1,37 @@
+-----GTPC model evaluation begins-----
+
+Decision Tree Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.9962106858658583
+Train Precision: 0.9929515418502203
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.5782312925170068
+Validation Precision: 0.4789915966386555
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.5399091499026606
+Test Precision: 0.2852941176470588
+
+SVM Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.8291019325502084
+Train Precision: 0.9815340909090909
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.5748299319727891
+Validation Precision: 0.425
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.6716417910447762
+Test Precision: 0.27411167512690354

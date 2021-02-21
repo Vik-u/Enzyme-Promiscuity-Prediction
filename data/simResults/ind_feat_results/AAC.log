@@ -1,0 +1,37 @@
+-----AAC model evaluation begins-----
+
+Decision Tree Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.9541492989768852
+Train Precision: 0.9950884086444007
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.5680272108843537
+Validation Precision: 0.46226415094339623
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.5347177157689812
+Test Precision: 0.26489028213166144
+
+SVM Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.7082228116710876
+Train Precision: 0.8526522593320236
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.5918367346938775
+Validation Precision: 0.4878048780487805
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.6709928617780662
+Test Precision: 0.32
