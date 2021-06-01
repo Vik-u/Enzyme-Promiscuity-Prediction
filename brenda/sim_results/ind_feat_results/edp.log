@@ -1,0 +1,37 @@
+-----edp model evaluation begins-----
+
+Decision Tree Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.7086017430845017
+Train Precision: 0.7719033232628398
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.5748299319727891
+Validation Precision: 0.4625
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.6353017521090201
+Test Precision: 0.30971128608923887
+
+SVM Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.6093217127699886
+Train Precision: 0.6139534883720931
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.6258503401360545
+Validation Precision: 0.6216216216216216
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.6709928617780662
+Test Precision: 0.3269230769230769

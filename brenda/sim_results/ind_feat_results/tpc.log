@@ -1,0 +1,37 @@
+-----tpc model evaluation begins-----
+
+Decision Tree Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.8234179613489958
+Train Precision: 0.8622950819672132
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.6020408163265306
+Validation Precision: 0.5113636363636364
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.6164828033744322
+Test Precision: 0.330078125
+
+SVM Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.7514209928003032
+Train Precision: 0.9420560747663551
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.6122448979591837
+Validation Precision: 0.5454545454545454
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.6716417910447762
+Test Precision: 0.3540983606557377

@@ -1,0 +1,37 @@
+-----NMBroto model evaluation begins-----
+
+Decision Tree Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.775293671845396
+Train Precision: 0.8101851851851852
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.5714285714285714
+Validation Precision: 0.46236559139784944
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.5885788449059053
+Test Precision: 0.2868369351669941
+
+SVM Stats
+
+Training Data Label Count
+0:1129
+1:1510
+Train Accuracy: 0.9048882152330429
+Train Precision: 0.9782135076252724
+Validation Data Label Count
+0:119
+1:175
+Validation Accuracy: 0.5986394557823129
+Validation Precision: 0.5070422535211268
+Test Data Label Count
+0:417
+1:1124
+Test Accuracy: 0.63659961064244
+Test Precision: 0.3133159268929504
